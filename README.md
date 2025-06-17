@@ -4,4 +4,4 @@ Hi there 👋
 🌱 I’m currently learning Python and an Odoo developer
 
 This is my portfolio:
-lawrencelanzaderas-portfolio.netlify.app
+[lawrencelanzaderas-portfolio.netlify.app](https://lawrencelanzaderas-portfolio.netlify.app/)
